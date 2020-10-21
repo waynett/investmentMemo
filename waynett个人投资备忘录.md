@@ -97,3 +97,7 @@ $$
 23. 比特币开启了单独的行情，在美股跌（纳指跌1.65%），黄金横盘的情况下，比特币单独走出一波上涨行情（上涨3.74%,11505=>11795），这是否标志着比特币新的行情来临？（2020-10-19 ）
 
 24. 比特币今年第4次突破12000美金.然而是通过大饼的吸血方式完成的（连以太都跌，defi币暴跌），这可能表明场内资金缺乏，大家把其他主流山寨资金抽到比特币上。有一种说法是，在牛市末期转熊的时候，币圈的落袋为安，有一种作法是把币王视为现金，或者叫抱团取暖（类似于A股行情不好的时候，大机构资金涌入茅台抱团取暖，不断推高茅台价值），如果后期主流山寨不跟涨的话，就要警惕这种风险。（2020-10-21 ）
+
+25.  [PayPal涉足数字加密市场，允许他的客户使用美国在线支付公司钱包买卖比特币等虚拟货币](https://www.reuters.com/article/us-paypal-cryptocurrency-idUSKBN2761L6) LONDON (Reuters) - PayPal Holdings Inc joined the cryptocurrency market on Wednesday, allowing customers to buy, sell and hold bitcoin and other virtual coins using the U.S. digital payments company’s online wallets.”
+
+26. 
