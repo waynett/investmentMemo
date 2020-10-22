@@ -100,6 +100,6 @@ $$
 
 25.  [支付巨头PayPal周三加入加密货币市场，允许客户使用PayPal买卖和持有比特币和其他加密货币。从2021年初开始，PayPal的用户还将能够使用加密货币在其网络上的2600万商家处购物](https://www.reuters.com/article/us-paypal-cryptocurrency-idUSKBN2761L6) LONDON (Reuters) - PayPal Holdings Inc joined the cryptocurrency market on Wednesday, allowing customers to buy, sell and hold bitcoin and other virtual coins using the U.S. digital payments company’s online wallets.”
 
-    ![IMG_5910](waynett个人投资备忘录.assets/IMG_5910.PNG)
+    ![IMG_5910](waynett个人投资备忘录.assets/IMG_5910-3330586.PNG)
 
 26. 
