@@ -104,3 +104,9 @@ $$
 
 26. 最近有个规律，白天国人砸盘，晚上老美拉盘，老美印的钱全部买资产了，当然这些大部分应该是欧美富人，无限印钞，担心法币贬值，只能囤比特币。国人没钱只能卖币，同时大部分比特币都是在中国挖出来的，矿工也有砸盘的动力，毕竟这个价格利润也不小（20201023）。
 
+27.  JPMorgan Chase & Co.’s（摩根大通） JPM Coin to make a payment for the first time：According to an October 27, 2020 report by CNBC, Takis Georgakopoulos, JPMorgan's global head of wholesale payments, said that one of the bank's large technology clients was using JPM Coin commercially for the first time, sending payments around the world. The bank also said that it had established a new business line called "Onyx" with a 100-person dedicated staff, which will let the bank commercialize its blockchain and digital currency developments.
+
+    摩根大通作为美国最大的商业银行，他推出自己的JPM Coin一年后，终于开始走向商用，直接将比特币从13200推到13850接近2019年新高。可以想象，后面将会有更多的银行和机构加入这块战场。（20201027)
+
+28. 
+
