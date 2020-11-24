@@ -210,3 +210,22 @@ $$
 
     ![image-20201120110908149](waynett个人投资备忘录.assets/image-20201120110908149.png)
     ![image-20201120111844351](waynett个人投资备忘录.assets/image-20201120111844351.png)
+
+55. 比特币在18000-19000之间横盘震荡，市场已经明显感觉fomo，XRP一天拉涨30%,一周翻倍，主流币开始补涨，山寨币开始飞天。合约资金费率不断上涨。（20201124）
+    
+    ![image-20201124103158070](waynett个人投资备忘录.assets/image-20201124103158070.png)
+    
+![image-20201124103505346](waynett个人投资备忘录.assets/image-20201124103505346.png)
+    
+![image-20201124142530345](waynett个人投资备忘录.assets/image-20201124142530345.png)
+    
+![image-20201124111004805](waynett个人投资备忘录.assets/image-20201124111004805.png)
+    
+![image-20201124111032190](waynett个人投资备忘录.assets/image-20201124111032190.png)
+    
+    ![image-20201124111111604](waynett个人投资备忘录.assets/image-20201124111111604.png)
+    
+    
+    
+56. 日本金融巨头SBI集团通过其与加密相关的子公司SBI VC Trade推出了一种加密货币借贷服务。根据11月24日的官方公告，新的加密货币借贷平台将允许用户将其加密货币借给SBI，并以1％的税率赚取利息（含税）（20201124）。https://cointelegraph.com/news/japanese-financial-giant-sbi-debuts-bitcoin-lending-service
+
